@@ -1,5 +1,5 @@
 ---
-title: "蜡笔小周的博客"
+title: "Let's Go!!"
 listing:
   contents: posts
   sort: "date desc"
