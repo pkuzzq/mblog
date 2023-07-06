@@ -7,9 +7,9 @@ execute:
   freeze: true
 
 website:
-  title: "Bioconductor community blog"
-  site-url: https://bioconductor.github.io/biocblog/
-  description: "A blog for the Bioconductor community!"
+  title: "zzq blog"
+  site-url: https://pkuzzq.netlify.app/
+  description: "A blog !"
   twitter-card:
     creator: "@Bioconductor"
     image: "/images/twitter-card.png"
@@ -19,9 +19,9 @@ website:
       - about.qmd
       - contributing.qmd
       - icon: github
-        href: https://github.com/bioconductor/biocblog
+        href: https://github.com/pkuzzq
       - icon: twitter
-        href: https://twitter.com/bioconductor
+        href: https://twitter.com/pkuzzq12345
       - icon: youtube
         href: https://www.youtube.com/user/bioconductor
       - icon: slack
