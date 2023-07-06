@@ -22,10 +22,6 @@ website:
         href: https://github.com/pkuzzq
       - icon: twitter
         href: https://twitter.com/pkuzzq12345
-      - icon: youtube
-        href: https://www.youtube.com/user/bioconductor
-      - icon: slack
-        href: https://bioc-community.herokuapp.com/
       - icon: rss
         href: index.xml
   
