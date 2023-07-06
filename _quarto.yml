@@ -7,7 +7,7 @@ execute:
   freeze: true
 
 website:
-  title: "zzq blog"
+  title: "蜡笔小周的博客"
   site-url: https://pkuzzq.netlify.app/
   description: "A blog !"
   twitter-card:
