@@ -24,7 +24,7 @@ website:
         href: mailto:pkuzzq@pku.edu.cn
   navbar:
     title: "蜡笔小周的博客"
-    background: "#6A5ACD"
+    background: "#43418A"
     foreground: "#000000"
     pinned: true
     left:
@@ -33,8 +33,6 @@ website:
       - about.qmd
       - text: Posts
         href: post/
-      - text: Talks
-        href: talk/
       - text: DataMethods
         href: datamethods.qmd
       - text: Publications
