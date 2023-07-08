@@ -10,7 +10,12 @@ date:  2023-07-08
 categories:
   - 教学
   - 经济学基础知识
-  - 2023
-image: 
+  - "2023"
+image: "https://pkuzzq-image.oss-cn-beijing.aliyuncs.com/uPic/屏幕快照 2023-07-07 的 00.29.02 上午.png"
 ---
+
+## 路线
+
+- 总体目标是得出为什么供给曲线右上方倾斜
+- 
 

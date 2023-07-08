@@ -9,6 +9,7 @@ date: last-modified
 categories:
   - 文献
   - 写作技巧
+  - "2023"
 image: "https://pkuzzq-image.oss-cn-beijing.aliyuncs.com/uPic/屏幕快照 2023-07-07 的 00.29.02 上午.png"
 ---
 

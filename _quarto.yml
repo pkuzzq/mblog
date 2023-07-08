@@ -46,7 +46,7 @@ format:
   html:
     smooth-scroll: true
     theme: [litera, styles.scss]
-css: xaringan-themer.css
+    css: xaringan-themer.css
     link-external-icon: false
     link-external-newwindow: true
     citations-hover: true
