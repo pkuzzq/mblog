@@ -1,5 +1,5 @@
 ---
-title: "SEA HW01"
+title: "SEA HW02"
 description: |
   2 小时的课程组织：旧作业+新知识+新作业布置
 author:
