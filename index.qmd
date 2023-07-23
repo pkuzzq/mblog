@@ -1,13 +1,14 @@
 ---
-title: "Let's Go!!"
+title: "Go!!"
 listing:
-  contents: posts
+  contents: [posts,notebooks]
   sort: "date desc"
   type: default
   categories: true
   feed: true
   sort-ui: true
   filter-ui: true
+  image-height: 160px
 page-layout: full
 title-block-banner: true
 ---
