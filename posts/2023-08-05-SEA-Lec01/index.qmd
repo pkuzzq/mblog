@@ -1,7 +1,7 @@
 ---
-title: "SEA HW02"
+title: "SEA HW01"
 description: |
-  2 小时的课程组织：旧作业+新知识+新作业布置
+  旧作业
 author:
   - name: Jason ZHOU
     url: 
@@ -31,18 +31,3 @@ image: "https://pkuzzq-image.oss-cn-beijing.aliyuncs.com/uPic/屏幕快照 2023-
 - 替代品、互补品：
 <br>替代品：如果商品A的价格上升，人们可能会转向更便宜的商品B，因此，商品A和B之间存在**正的**交叉价格弹
 <br>互补品：如果商品A的价格上升，人们可能会购买更少的与之互补的商品B，因此，商品A和B之间存在**负的**交叉价格弹性。
-
-
-### 数学推导：价格弹性与产品收入的关系
->by G4-杨杰，我补充图片
-
-![](https://pkuzzq-image.oss-cn-beijing.aliyuncs.com/uPic/屏幕快照 2023-07-07 的 14.05.45 下午.png)
-
-![](https://pkuzzq-image.oss-cn-beijing.aliyuncs.com/uPic/n4dKmm.png)
-
-### 图示说明：当体育设施存在正外部性时，政府补贴是正当的
->参考教材第 6 章
-
->G1-姚凯
-
-### 分析技能：参考文献格式
