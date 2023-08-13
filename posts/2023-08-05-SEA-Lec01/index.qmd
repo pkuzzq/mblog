@@ -10,7 +10,7 @@ categories:
   - 教学
   - 经济学基础知识
   - "2023"
-image: "https://pkuzzq-image.oss-cn-beijing.aliyuncs.com/uPic/屏幕快照 2023-07-07 的 14.05.45 下午.png"
+image: ""
 
 ---
 
