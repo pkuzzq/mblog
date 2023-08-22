@@ -1,0 +1,52 @@
+---
+title: "L&W02-Schmoozing and the Gender Gap"
+description: |
+  学术性的听写
+author:
+  - name: Jason ZHOU
+    url: 
+date: last-modified
+categories:
+  - 英语
+  - 写作
+  - "2023"
+image: ""
+
+---
+### 先给出字幕
+Women tend to be promoted at lower rates than men, and this accounts for the majority ofthe overall gender pay gap.Among U.S. corporations, women comprise 48% of entry-level employees, but only 38% ofmiddle management, 22% of C-suite executives, and 5% of CEOs.Can differences in social interactions, or schmoozing, at work partially explain thesetrends?Workplaces are social environments, and interactions between employees and their managers may influencecareer trajectories.But anecdotal evidence suggests that women often feel excluded from the kinds of socializingthat can give their male counterparts a leg up in promotions.This paper provides novel quantitative evidence that social interactions affect employees’careers and they contribute to the gender pay gap.The data derive from a large commercial bank in Southeast Asia with millions of customersand thousands of employees.This firm is typical in that female representation falls sharply at higher levels, and its gendergaps in pay and promotion rates are similar to those in other firms in both developedand developing countries.To start, the authors examine whether socializing with a manager gives employees a boost inpromotions.They exploit variation in social interactions driven by smoking habits and a crucial institutionalfact: managers in this firm rotate across teams as part of the requirement for managerialpromotion.Transitions often occur on short notice, and testimonies suggest the assignments are asgood as random.So consider the set of teams who are assigned to non-smoking managers.Some will transition to a smoking manager while others will transition to a new non-smokingmanager.Comparing outcomes between the two groups before and after the transitions capturesthe impact on employees of receiving a smoking manager relative to the impact of receivinga new non-smoking manager.This figure shows the results separately for smoking and non-smoking employees.Prior to the transitions, both types have similar career trajectories – this is consistentwith the idea that manager assignments are as good as random.But after the transitions, there is a clear divergence.Smoking employees are promoted more quickly when they are assigned to a smoking manager– 10 quarters after the transition, their pay grade is 0.7 points higher relative tosmokers who received a new non-smoking manager.In contrast, non-smoking employees have similar promotion rates whether they are assignedto a smoking or non-smoking manager.This figure directly measures the smoker-to-smoker advantage by subtracting these coefficientsfrom these coefficients.At 10 quarters after the transition, the smoker-to-smoker advantage amounts to a 15% effect on basesalary.So, why are smoking employees promoted more quickly under a smoking manager?There is no evidence that they become any more productive, nor is it the case that managersfavor employees who are more similar to them.There is no boost in promotions for employees who are born in the same province, went tothe same college, or who are close in age to their manager.But the evidence does suggest that employees and managers who smoke socialize more, primarilythrough shared smoking breaks.After the transition to a smoking manager, smoking employees share substantially morebreak time with their manager, while there is no effect for non-smoking employees.The smoker-to-smoker advantage is also stronger when employees work in close proximity totheir managers.This is consistent with the boost in promotions being driven by increased socialization andface-to-face interactions.To determine whether similar dynamics contribute to the gender pay gap, the authors apply thesame analytical framework, but rather than measuring the smoker-to-smoker advantage,they estimate the male-to-male advantage.They find that while the pay grades of female employees evolve similarly regardless of whetherthey transition to a female or a male manager, the pay grades of male employees rise morequickly with a male manager.Interestingly, there is also a complementary effect: losing a male manager has little effecton female employees, but has a negative effect on the pay grades of male employees.As before, these dynamics appear to be driven by social interactions.Transitioning to a male manager increases the percentage of breaks male employees sharewith their managers, and the male-to-male advantage is concentrated in cases where employeesand managers work in close proximity.Overall, 10 quarters after the transition, the male-to-male advantage is 0.54 pay gradesor around a 14% increase in salary.A back-of-the-envelope calculation suggests that removing this effect would reduce thefirm’s gender pay gap by 40%.Thus, this paper argues that social interactions can affect employees’ careers and contributeto the gender gap in promotions.This implies that a range of corporate policies might effectively reduce the gender gap includingstandardizing the review process to use objective indicators and leveling the opportunitiesfor socializing at work.More broadly, these findings highlight the importance of studying how face-to-face interactionsshape career advancement, particularly in an era of working from home.To read more on this topic, you can check out the paper’s references to other relatedwork.This includes research on social interactions at work and many papers studying the genderwage gap.
+
+### 翻译
+01_女性晋升的速度通常低于男性，这在很大程度上解释了整体性别薪酬差距的大部分原因。
+02_在美国的企业中，女性占到了初级员工的48%，但在中层管理中只占38%，在高管层占22%，而CEO中只有5%是女性。
+03_社交互动差异，或称为职场社交，是否可以部分解释这些趋势呢？
+04_工作场所是社交环境，员工与经理之间的互动可能会影响职业轨迹。
+05_然而，现实证据表明，女性常常感到被排除在能够帮助男性同僚晋升的社交活动之外。
+06_本研究提供了新颖的量化证据，显示社交互动对员工的职业发展产生影响，并对性别薪酬差距做出贡献。
+07_数据来自东南亚的一家大型商业银行，该银行拥有数百万客户和数千名员工。
+08_该公司的特点是，在更高层次上，女性代表比例急剧下降，其薪酬和晋升率的性别差距与其他发达国家和发展中国家的公司类似。
+09_作者首先研究了与经理社交是否会促使员工在晋升方面有所提升。
+10_他们利用与吸烟习惯相关的社交互动变化，并利用一个重要的制度事实：该公司的经理在晋升要求的框架下在团队之间轮换。
+11_这些转变往往在短时间内发生，据证词表明，分配的方式几乎是随机的。
+12_考虑一组被分配给非吸烟经理的团队。
+13_其中一些团队会转移到吸烟经理，而其他团队会转移到新的非吸烟经理。
+14_将这两组之间的结果在转变之前和之后进行比较，可以捕捉到接受吸烟经理影响相对于接受新的非吸烟经理影响的员工的影响。
+15_在转变之前的10个季度里，吸烟员工和非吸烟员工的职业轨迹相似 - 这与经理分配几乎是随机的观点一致。
+16_但在转变之后，存在明显的分歧。
+17_吸烟员工在被分配给吸烟经理时的晋升速度更快 - 转变后的10个季度，他们的薪酬等级比接受新的非吸烟经理的吸烟者高0.7个点。
+18_相反，非吸烟员工无论被分配给吸烟经理还是非吸烟经理，晋升率都相似。
+19_这张图分别显示了吸烟员工和非吸烟员工的结果。
+20_转变之前，两种类型的员工具有类似的职业轨迹 - 这与经理分配几乎是随机的观点一致。
+21_但在转变之后，存在明显的分歧。
+22_吸烟员工在被分配给吸烟经理时的晋升速度更快 - 转变后的10个季度，他们的薪酬等级比接受新的非吸烟经理的吸烟者高0.7个点。
+23_相反，非吸烟员工无论被分配给吸烟经理还是非吸烟经理，晋升率都相似。
+24_这张图通过将这些系数减去这些系数，直接测量了吸烟员工的优势。
+25_在转变后的10个季度里，吸烟员工的优势达到15%的基础工资效应。
+26_那么，为什么在吸烟经理的领导下，吸烟员工晋升更快？没有证据表明他们变得更加高效，经理也不偏爱与他们更相似的员工。
+27_出生在同一个省份、上同一所大学或与经理年龄相近的员工并没有晋升的提升。
+28_但有证据表明，吸烟员工和经理更多地通过共同的吸烟休息时间进行社交互动。
+29_在转变为吸烟经理后，吸烟员工与其经理分享的休息时间明显增加，而非吸烟员工没有影响。
+30_当员工与经理在紧密接触时，吸烟员工的优势也更加明显。
+31_这与提升速度的提高是由于增加的社交和面对面的互动有关。
+32_为了确定类似的动态是否也有助于性别薪酬差距，作者应用了相同的分析框架，但不是测量吸烟员工的优势，而是估计男性员工的优势。
+33_他们发现，尽管女性员工的薪酬等级在是否转移到女性经理处变化时的变化趋势相似，但男性员工的薪酬等级在有男性经
