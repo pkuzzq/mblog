@@ -13,3 +13,64 @@ categories:
 image: ""
 
 ---
+### 先给出字幕
+
+Poverty in developing countries is shaped by deprivation on many dimensions.While economists have studied these topics extensively, one factor has been fairly underexplored:sleep.The urban poor in low-income countries face many barriers to a good night’s sleep – forexample: heat, noise, crowding, physical discomfort, and stress.To the extent that sleep is a crucial input to productivity and well-being, these barriersmay have severe economic consequences.In fact, a large body of research shows that sleep deprivation negatively affects an individual’sattention, memory, immune function, and mood.This raises the possibility that sleep, or lack of it, may substantially affect the poor.
+
+This paper studies sleep among the urban poor using a sample of 452 low-income adults inChennai, India.Participants were observed over a 28-day period, during which they were employed in a full-timedata-entry job, and their sleep patterns were recorded both at baseline and following anintervention aimed at increasing sleep.Importantly, sleep was measured using actigraphs: these are small devices similar to wristwatchesthat infer sleep and wake states from an individual’s body movement.Because actigraphs can detect when an individual is asleep in addition to when they are inbed but not asleep, they allow the authors to track both the quantity and quality ofsleep.In particular, they track sleep efficiency: this is defined as time asleep divided bytime spent in bed, and is a commonly-used proxy for sleep quality.
+
+So, what do sleep patterns at baseline look like?This figure shows the distribution of time spent asleep per night, and reveals widespreadsleep deprivation.Individuals in this sample sleep only 5.6 hours per night on average, well below theminimum level recommended by experts.This is despite the fact that average time spent in bed is around 8 hours per night,and, correspondingly, average sleep efficiency is only around 70%.This is much lower than estimates from high-income countries, and is similar to those for U.S.patients suffering from disorders such as sleep apnea or insomnia.This figure shows sleep patterns from two study participants.First is a typical pattern seen in the data: this individual spends 8 hours in bed, buttheir sleep is highly fragmented and interrupted, with over 30 awakenings over the course ofthe night.In contrast, this individual has far fewer interruptions.
+This second pattern is quite rare in the Chennai sample, but is similar to those typicallyfound in the U.S. and other countries where sleep efficiency is high.
+
+Given these patterns, what are the consequences of increasing sleep in this population?To answer this question, the authors randomly assigned participants to one of three groups.The first received a bundle of devices to improve their home sleep environment, informationand tips on improving sleep, and verbal encouragement to increase sleep.The second received the same treatment plus financial incentives for increased sleep,and the Control received none of these treatments.The results show that the intervention substantially increased sleep.Relative to the Control group, Treated individuals increased their time asleep by 27 minutesper night on average.Notably, this increase was entirely driven by spending more time in bed rather than byimproved efficiency.This suggests that while it is possible for individuals to increase their sleep, doing so comes at a high opportunity cost of time.Because efficiency is low, participants had to spend an additional 38 minutes per nightin bed in order to increase their time asleep by 27 minutes.On net, of course, this could be worthwhile if increasing sleep has positive effects.Indeed, many studies have shown that reducing sleep deprivation has substantial benefits.Consistent with this, the authors surveyed over a hundred experts from sleep scienceand economics, and a clear consensus predicted that increasing sleep by 30 minutes per nightin this study’s population would lead to sizable economic benefits.
+
+This figure shows the impact of the intervention on an extensive set of outcomes, and, strikingly,reveals there were no positive effects.Increased sleep had no effect on productivity and actually lowered participants’ laborsupply.Additionally, there were no effects on physical and psychological well-being, performanceon a battery of cognitive tests, or on standard measures of social, risk and time preferences.These results counter the consensus from sleep research, and indicate that it may be difficultto extrapolate findings across different contexts.Sleep studies are generally conducted in sleep labs in rich countries, an environment thatdiffers markedly from many real-world settings, particularly those faced by the urban poor.Interestingly, however, while increased night sleep had no benefit in this sample, thereis a context in which sleep did matter: afternoon naps.In an additional randomization, a subset of participants was offered a daily half hournap at the office.This treatment increased daytime sleep and, in contrast to increased night sleep, didlead to improvements including higher productivity and a boost to both psychological well-beingand cognitive function.As before, however, the opportunity costs are high: napping reduces labor supply relativeto working through the afternoon.In conclusion, this paper paints a nuanced view of sleep among the urban poor.The opportunity cost of increasing sleep is high, and, while naps do have positive effects,there are no discernible benefits to increased night sleep.
+
+These results push against the reigning consensus, and suggest that the widespread sleep deprivation observed in this sample does reflect optimizing behavior given the existing constraints.Going forward, this speaks to the importance of studying sleep in a wide variety of real-worldsettings.To read more on this topic, you can check out the paper’s references to other relatedwork.These include other papers studying sleep in developing countries, those estimating the causal impact of sleep more broadly, and finally research on naps, most of which, todate, originates from sleep labs.
+
+
+### 译文及其作用
+
+【将我研究的问题上升维度，睡觉和剥夺，包装后的Y】
+发展中国家的贫困在许多方面都受到剥夺的影响。
+
+【Y】
+虽然经济学家已经广泛研究了这些问题，但其中一个因素却相对未被探索：睡眠。
+
+【X_n】
+低收入国家城市贫民要能够获得良好夜间睡眠仍旧面临许多障碍，为例：例如高温、噪音、拥挤、身体不适和压力等。
+
+【Y对于生产力和福祉是重要的影响因素，所以我所研究的问题要是不给予重视就会带来严重的后果】
+如果说睡眠是生产力和福祉的重要输入，那么这些障碍可能会带来严重的经济后果。
+
+【 包装后的 Y，对 Z_n有很多负面影响】
+事实上，大量研究表明，睡眠剥夺会对个人注意力、记忆、免疫功能和情绪产生负面影响。
+
+【引出做实验的初衷，会加重研究对象情况的恶化】
+这就引出了一个可能性：睡眠或缺乏它可能会极大地影响穷人。
+
+【实验概述：时间、记录方式、分析对象、测量工具、建构变量（指标）（数量和质量，前者是时间，后者是效率）】
+本文使用452名印度钦奈市低收入成年人样本研究城市贫民中的睡眠情况。
+参与者在28天内进行全职数据录入工作，并记录基线期间及旨在增加睡眠时间干预后他们的睡眠模式；
+值得注意的是，使用活动计（actigraphs）来衡量其睡觉状态——这些小型设备类似于手表可以从个体身体运动推断出其是否处于清醒或沉睡状态；由于活动计可以检测到个体何时处于清醒状态以及何时处于床上但没有进入沉睡状态，因此作者能够跟踪记录下每位参与者所具有数量和质量两方面关键指标——尤其是追踪了“睡觉效率”：即定义为实际进入梦乘时间除以总共待在床上时间，并常用作衬托物评价指标之一。
+
+【结果】
+那么，基线睡眠模式是什么样子的呢？这张图显示了每晚入睡时间的分布情况，并揭示了广泛的睡眠剥夺。在此样本中，个体平均每晚只睡5.6小时，远低于专家建议的最低水平。尽管每晚平均入睡时间约为8小时，相应地，平均睡眠效率仅约为70%。这比高收入国家的估计要低得多，并且类似于患有失眠或阻塞性睡眠呼吸暂停症等疾病的美国患者。
+【睡眠模式】
+该图显示了两位研究参与者的睡眠模式。第一个是数据中看到典型模式：这个人在床上待了8个小时，但他们的睡眠非常零碎和中断，在整个夜晚醒来超过30次。相比之下，另一个人则干扰较少。这种第二种模式在钦奈样本中非常罕见，但与美国和其他睡眠效率高的国家通常发现的模式相似。
+
+【干预及其结果】
+鉴于这些模式，在该人群中增加睡眠的后果是什么？为了回答这个问题，作者随机将参与者分配到三组之一。第一组收到一堆设备来改善他们的家庭睡眠环境、改善睡眠的信息和技巧以及口头鼓励增加睡眠。第二组除了获得同样的治疗外，还获得增加睡眠的财务激励措施，而对照组则没有接受任何治疗。结果显示，干预显著增加了睡眠时间。相对于对照组，治疗个体平均每晚入睡时间增加27分钟。值得注意的是，这种增长完全是由于花更多时间在床上而不是提高效率所致。这表明虽然个人可以增加他们的睡眠时间，但付出很高昂地机会成本换取时间。因为效率低下，参与者必须额外花费38分钟才能每晚多入睡27分钟。当然，在净值方面如果提高了正面影响，则可能是值得做出牺牲去实现目标。事实上,许多研究已经表明减少失眠有重大好处.与此一致,作者调查了100多位来自睡眠科学和经济学领域的专家，并且达成共识认为，在该项简单试验中使被试每天多入30分钟的觉将带来可观的经济利益.
+
+【干预的意料之外】
+这个图显示了干预对广泛结果的影响，并且引人注目地揭示了没有积极效果。增加睡眠对生产力没有影响，实际上降低了参与者的劳动力供应。
+【干预后，其他潜在的Y可能会影响的 Z 变量的策略】
+此外，在身体和心理健康、一系列认知测试表现以及社交、风险和时间偏好的标准测量方面也没有影响。这些结果反驳了睡眠研究的共识，并表明在不同情境下推断发现可能很困难。通常在富裕国家的睡眠实验室中进行睡眠研究，这种环境与许多真实世界情况有很大差异，特别是城市贫困人口所面临的情况。
+
+【变种的Y的发现】
+然而有趣的是，虽然在样本中增加夜间睡眠并没有好处，但存在一个背景：午后小憩确实重要。通过额外随机化，部分参与者被提供每天半小时在办公室小憩一次。这种治疗增加了白天的睡眠，在区别于夜间增加睡眠时导致改善包括更高生产力以及心理健康和认知功能提升等方面都得到改善。然而像之前一样，机会成本很高：相对于下午工作来说打盹会减少劳动力供应量。
+
+【总结】
+总之，本文呈现出城市贫困人群中关于睡眠问题细微差别观点。增加睡眠带来机会成本较高,而尽管小憩确实具有积极作用,增加夜间休息并无明显益处.
+这些结果挑战主流共识，并表明该样本观察到普遍缺乏充足休息反映出给定限制条件下优化行为非常重要.未来需要研究各种真实世界环境下如何入手探索相关问题.
+您可以查看论文参考其他相关工作以获取更多信息,包括其他针对发展中国家进行睡眼睛的论文，那些评估更广泛的睡觉影响和最终关于小憩的系列知名性大都来自于睡觉实验室的相关理论.
