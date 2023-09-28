@@ -1,0 +1,15 @@
+---
+title: "Writing06-Trilogy of High-Quality Economic Paper Writing"
+description: |
+  学术性的写作
+author:
+  - name: Yang YAO
+    url: 
+date: last-modified
+categories:
+  - 英语
+  - 写作
+  - "2023"
+image: ""
+
+---
