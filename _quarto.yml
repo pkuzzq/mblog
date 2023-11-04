@@ -2,17 +2,22 @@ project:
   type: website
   resources:
     - "images/twitter-card.png"
-
+freeze: true
+bibliography: files/bib/references.bib
+csl: files/bib/chicago-author-date.csl
 execute:
   freeze: true
 
 website:
-  title: "蜡笔小周的博客"
+  title: "蜡笔小周博客"
   site-url: https://pkuzzq.netlify.app/
   twitter-card:
     creator: "@Bioconductor"
     image: "/images/twitter-card.png"
-  open-graph: true
+  favicon: "/files/favicon-512.png"
+  open-graph:
+    image: "/files/profiles/twitter-card-large.png"
+    locale: en_US
   page-footer:
     left: "Blog made with Quarto."
     right:
@@ -23,51 +28,39 @@ website:
       - icon: envelope
         href: mailto:pkuzzq@pku.edu.cn
   navbar:
-    title: "蜡笔小周"
+    title: 蜡笔小周
     background: "#43418A"
     foreground: "#000000"
     pinned: true
     left:
-    - text: "Jason ZHOU"
+      - text: Jason ZHOU
     right:
       - about.qmd
-      - text: Posts
-        href: post/
-      - text: Notebooks
+      - text: 简历
+        href: cv/index.qmd
+      - text: 博客
+        href: blog/index.qmd
+      - text: 笔记
         href: notebooks/
       - text: DataMethods
         href: datamethods.qmd
-      - text: Publications
+      - text: 发表
         href: https://www.zotero.org/groups/feh/items/q/Harrell
       - icon: github
         href: https://github.com/pkuzzq
       - icon: twitter
         href: https://twitter.com/pkuzzq12345
-  
+
 format:
   html:
-    smooth-scroll: true
-    theme: [litera, styles.scss]
-    css: xaringan-themer.css
-    link-external-icon: false
-    link-external-newwindow: true
-    citations-hover: true
-    footnotes-hover: true
-    toc: true
-    toc-depth: 3
-    toc-title: Contents
-    toc-location: left
-    code-link: false
+    theme:
+      - html/ath.scss
+    grid:
+      body-width: 900px
+    toc: false
+    code-link: true
     anchor-sections: true
-    code-tools: true
-    code-fold: true
-    code-block-bg: "#f1f3f5"
-    code-block-border-left: "#31BAE9"
-    reference-location: margin
     fig-cap-location: margin
-
-comments:
-  hypothesis:
-    theme: clean
-    openSidebar: false
-    enableExperimentalNewNoteButton: true
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai

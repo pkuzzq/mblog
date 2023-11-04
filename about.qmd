@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: profile.jpg
+title: "简介"
+image: profile2.jpg
 about:
   template: broadside
   links:
