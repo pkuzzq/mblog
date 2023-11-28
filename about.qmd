@@ -1,5 +1,5 @@
 ---
-title: "简介"
+title: "关于"
 image: profile2.jpg
 about:
   template: broadside

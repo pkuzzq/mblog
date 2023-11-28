@@ -18,9 +18,3 @@ execute:
   echo: true
   message: true
   warning: true
-
-# Default author
-author:
-  - name: Jason ZHOU
-    url: https://pkuzzq.netlify.app/
-    orcid: 0000-0001-7685-5337

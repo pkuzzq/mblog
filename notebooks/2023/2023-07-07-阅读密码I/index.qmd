@@ -1,16 +1,16 @@
 ---
-title: "学术期刊文章分析指南"
+title: "阅读密码I"
 description: |
   如何快速抓取信息是学术专业人士的重要技巧.Christopher M. Weible博士给了我们很多建议
 author:
   - name: Dr. Christopher M. Weible
     url: https://medium.com/policy-process-matters/be-like-mark-a-guide-to-analyzing-journal-articles-235c79ccd117
-date: last-modified
+date: 2023-07-07
 categories:
   - 文献
   - 写作技巧
   - "2023"
-image: "https://pkuzzq-image.oss-cn-beijing.aliyuncs.com/uPic/屏幕快照 2023-07-07 的 00.29.02 上午.png"
+image: "guide.png"
 ---
 
 第 1 部分是文章的标准.

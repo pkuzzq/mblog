@@ -10,7 +10,7 @@ categories:
   - 教学
   - 经济学基础知识
   - "2023"
-image: ""
+image: "elasticity.png"
 
 ---
 

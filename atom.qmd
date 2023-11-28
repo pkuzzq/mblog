@@ -1,0 +1,15 @@
+---
+title: "Jason ZHOU's blog"
+search: false
+listing:
+  sort: "date desc"
+  feed: 
+    title: "Jason ZHOU's blog"
+    description: "Jason ZHOU's blog"
+    items: 40
+    type: full
+    language: en
+  contents:
+    - "blog/**/index.qmd"
+    - "!blog/index.qmd"
+---

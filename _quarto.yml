@@ -36,8 +36,7 @@ website:
       - text: Jason ZHOU
     right:
       - about.qmd
-      - text: 简历
-        href: cv/index.qmd
+      - cv.qmd
       - text: 博客
         href: blog/index.qmd
       - text: 笔记
