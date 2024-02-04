@@ -1,0 +1,96 @@
+---
+title: "Writing02-10Rules"
+description: |
+  学术性的写作
+author:
+  - name: Jason ZHOU
+    url: 
+date: last-modified
+categories:
+  - 英语
+  - 写作
+  - "2023"
+image: ""
+
+---
+## Introduction 
+The Ten Most Important 
+Rules of Writing Your Job Market Paper
+Claudia Goldin and Lawrence Katz
+Rule #1: You will probably not have a Nobel Prize winning idea.
+Theorem #1: It is always possible to transform a good idea into a great paper and a superb presentation.
+Theorem #2: Even if your idea is Nobel-worthy, you can always make it into a poorly written paper and a lousy presentation.  This theorem will probably never be needed; see 
+Rule #1.
+Rule #2: The insights ofyour paper will first bejudged by howyou present them.  If your paper is written in an unprofessional manner, your empirical work, mathematical proofs, and models will be viewed with initial skepticism.
+Rule #3: Your paper is an exercise in persuasion (we mean in positive not normative         economics).  Your readers are your audience.  They have better things to do than read your paper.  Make them interested in your thesis and convinced of your argument.
+Rule #4: No great paper—no matter howwell constructed, brilliant, and well written—first     emerged fromthe author’s printer in that form.  It was rewritten at least 10 times.  Rewriting is the true art of writing.
+Rule #5: No author—no matter how careful and humble—can see all (or even most) of his or her writing errors.  Trade papers with another student.  Be tough; there will be some initial pain, but gratitude will follow.
+Rule #6: Most paragraphs have too many sentences and most sentences have too many words. Repetition is boring.  We repeat: repetition is boring.  Cut, cut, and then cut again.
+Rule #7: The “foot-in-the-door” parts ofyour written work are the abstract and introduction.      Write them clearly and concisely.  The abstract is not simply the first paragraph ofyour paper (or the last paragraph for that matter).  Write them so that they are accessible by any intelligent         economist, not just those in your field.
+Rule #8: Verbalizing your argument is more difficult than writing it.  Giving a presentation will reveal where your argument falls flat and will show you how to redraft the paper.  Give many   presentations before sending out your paper.  Give them to a workshop, friends, a dog or cat,    even the wall.  The presentation will force you to confront inconsistencies in your argument.
+Rule #9: Be your own worst enemy.  If you won’t, someone else will.
+Rule #10: There are many other rules.  We cannot cover all of them.  A few are:
+     All tables and figures must have enough information to allow the reader to figure out how
+to replicate them, even if the “source” is “see Data Appendix.”
+     Tables and figures should be placed after the text and not integrated.  It is easier to read a
+working paper if the tabular and graphical material is grouped together.
+     Do not use a font that is less than 11 point for text and do not use a font less than 10 point
+for footnotes and tabular materials.  The preferred size is 12 point for text and tables and
+11 point for footnotes.  If your reader is older than 40 years, you will inflict pain if you use small fonts.  A pained reader rarely looks favorably upon the author.
+     Use Appendixes for descriptions of data sources, certain proofs, and other matters.  For
+empirical work, make certain that your work can be replicated.
+     No one wants to read a “literature review.”  It is sophomoric.  Integrate the literature with
+the rest of your paper.
+     Do not tell your readers what you will be doing.  Just do it.
+     Do not use general headings such as: “Model,” “Data,” “Findings,” “Literature Review”
+(see above).  You might as well use 1, 2, 3, and 4.  Tell your readers what is in the section, e.g., A Model Demonstrating the Finiteness of the Universe.
+     Use meaningful variable names.  You may know ps102, plop49, and oink34 like the back
+of your hand, but they do not mean a thing to your reader.
+     Do not present every result you have ever produced.  Boring.  Ask yourself what you
+need in the presentation and include that.  Use an Appendix for other results.
+     Check for typos, spelling errors, missing pages, incorrect table or figure numbers,
+missing references, and the like.  These are the cockroaches of writing.  Exterminate them.
+     Use a style manual or a journal as a guide.  Consistency is important.
+If you want more hints (and we suspect you will), here are two books on economics writing:       Economical Writing (2nd edition, Waveland Press) by Deirdre McCloskey (Economics, Rhetoric, Philosophy, University of Illinois, Chicago)
+A Guide for the Young Economist (M.I.T. Press, 2001) by William Thomson (Economics,        University of Rochester).  See also, William Thomson, “The Young Person’s Guide to Writing Economic Theory,” Journal of Economic Literature 37 (March 1999): 157-83.
+
+写作职场论文的十个最重要的规则
+克劳迪娅·戈尔丁和劳伦斯·卡茨
+规则1：你可能不会有一个诺贝尔奖获奖的想法。
+定理1：总是可以将一个好想法转化为一篇出色的论文和精彩的演示。
+定理2：即使你的想法值得诺贝尔奖，你仍然可以将其变成一篇写得很糟糕的论文和糟糕的演示。这个定理可能永远不会被用到；参见规则1。
+规则2：你的论文的见解将首先根据你如何呈现它们来判断。如果你的论文写得不专业，你的经验性工作、数学证明和模型将会被初步怀疑。
+规则3：你的论文是一种说服的练习（我们是指在积极的，而不是规范的经济学中）。你的读者就是你的观众。他们有更重要的事情要做，而不是读你的论文。让他们对你的论题感兴趣，并相信你的论证。
+规则4：没有一篇伟大的论文 - 无论结构多么出色、有多么聪明和写得多么好 - 最初是以作者的打印机以那种形式出现的。它至少要重写10次。重写才是真正的写作艺术。
+规则5：没有一位作者 - 无论多么仔细和谦虚 - 能够看到他或她的所有（甚至大部分）写作错误。和另一名学生交换论文。要有坚韧的心态；一开始可能会有些痛苦，但之后会感激的。
+规则6：大多数段落有太多的句子，而大多数句子有太多的词。重复是令人厌倦的。我们再说一遍：重复是令人厌倦的。删减，再删减，然后再删减。
+
+规则7：你写作品的“入门”部分是摘要和引言。清晰简洁地写作。摘要并不仅仅是你论文的第一段（或最后一段）。要让任何聪明的经济学家都能理解，而不仅仅是你领域的人。
+
+规则8：口头表达你的论点比写作更困难。进行演示将揭示出你的论点何处不足，并告诉你如何重新起草论文。在发送论文之前进行多次演示。在研讨会、朋友、狗狗或猫猫甚至墙壁前进行演示。演示将迫使你面对论点中的不一致之处。
+
+规则9：成为自己最严格的批评者。如果你不这样做，其他人会这样做。
+
+规则10：还有许多其他规则。我们无法涵盖所有规则。以下是其中几条：
+    所有的表格和图表必须提供足够的信息，以便读者能够弄清楚如何复制它们，即使“来源”是“见数据附录”。
+    
+    表格和图表应放在文本之后，不要与文本融合在一起。如果表格和图形材料被分组在一起，阅读工作论文会更容易。
+    
+    正文字体不要使用小于11号的字体，脚注和表格材料不要使用小于10号的字体。正文和表格的首选大小是12号，脚注是11号。如果你
+    的读者年龄超过40岁，使用小字体会让他们感到不适。一个感到不适的读者很少会对作者产生好感。
+    
+    使用附录来描述数据来源、某些证明和其他事项。对于经验性工作，请确保你的工作可以复制。
+    
+    没有人愿意读一篇“文献综述”。这是幼稚的。将文献与论文的其余部分融合在一起。
+    
+    不要告诉读者你将要做什么。就去做吧。
+    
+    不要使用通用标题，如：“模型”，“数据”，“结果”，“文献综述”（参见上文）。与其使用1、2、3和4，还不如告诉读者部分内容，例如：“展示宇宙有限性的模型”。
+    
+    使用有意义的变量名。你可能对ps102、plop49和oink34了如指掌，但它们对你的读者来说毫无意义。
+    
+    不要呈现你所产生的每一个结果。令人厌烦。问问自己在演示中需要什么，然后包含进去。使用附录来呈现其他结果。
+    
+    检查拼写错误、拼写错误、缺页、不正确的表格或图号、缺失的引用等。这些是写作的弊病。消灭它们。
+    
+    使用风格手册或期刊作为指南。一致性很重要。

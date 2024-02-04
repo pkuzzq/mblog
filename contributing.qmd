@@ -1,9 +1,8 @@
 ---
-title: "Contributing"
+title: "贡献"
 ---
 
-We very much appreciate contributions to the Bioconductor community blog from the broader community.
-If you are interested in publishing some of your own work or insights, we'd love to hear from you!
+我们非常感谢更广泛社区对Bioconductor社区博客的贡献。如果您有兴趣发布自己的作品或见解，我们很乐意听取！
 
 # Requirements
 

@@ -1,0 +1,50 @@
+---
+title: "Case03-American Needle, Inc. v. National Football League"
+description: |
+  学术性的写作
+author:
+  - name: Jason ZHOU
+    url: 
+date: last-modified
+categories:
+  - 英语
+  - 教学
+  - ""
+image: ""
+
+---
+
+| 序号 | 英文名称                | 中文名称               | 队徽 |
+|------|-------------------------|-------------------------|------|
+| 01   | Arizona Cardinals      | 亚利桑那红雀             | ![Link to logo](#) |
+| 02   | Atlanta Falcons        | 亚特兰大猎鹰             | ![Link to logo](#) |
+| 03   | Baltimore Ravens       | 巴尔的摩乌鸦             | ![Link to logo](#) |
+| 04   | Buffalo Bills          | 布法罗比尔斯             | ![Link to logo](#) |
+| 05   | Carolina Panthers      | 卡罗来纳黑豹             | ![Link to logo](#) |
+| 06   | Chicago Bears          | 芝加哥熊                 | ![Link to logo](#) |
+| 07   | Cincinnati Bengals     | 辛辛那提孟加拉虎          | ![Link to logo](#) |
+| 08   | Cleveland Browns       | 克利夫兰布朗             | ![Link to logo](#) |
+| 09   | Dallas Cowboys         | 达拉斯牛仔               | ![Link to logo](#) |
+| 10   | Denver Broncos         | 丹佛野马                 | ![Link to logo](#) |
+| 11   | Detroit Lions          | 底特律雄狮               | ![Link to logo](#) |
+| 12   | Green Bay Packers      | 绿湾包装工               | ![Link to logo](#) |
+| 13   | Houston Texans         | 休斯顿德州人             | ![Link to logo](#) |
+| 14   | Indianapolis Colts     | 印第安纳波利斯小马       | ![Link to logo](#) |
+| 15   | Jacksonville Jaguars   | 杰克逊维尔美洲虎         | ![Link to logo](#) |
+| 16   | Kansas City Chiefs     | 堪萨斯城酋长             | ![Link to logo](#) |
+| 17   | Las Vegas Raiders      | 拉斯维加斯攻略           | ![Link to logo](#) |
+| 18   | Los Angeles Chargers   | 洛杉矶充电器             | ![Link to logo](#) |
+| 19   | Los Angeles Rams       | 洛杉矶公羊               | ![Link to logo](#) |
+| 20   | Miami Dolphins         | 迈阿密海豚               | ![Link to logo](#) |
+| 21   | Minnesota Vikings      | 明尼苏达维京人           | ![Link to logo](#) |
+| 22   | New England Patriots   | 新英格兰爱国者           | ![Link to logo](#) |
+| 23   | New Orleans Saints     | 新奥尔良圣徒             | ![Link to logo](#) |
+| 24   | New York Giants        | 纽约巨人               | ![Link to logo](#) |
+| 25   | New York Jets          | 纽约喷气机               | ![Link to logo](#) |
+| 26   | Philadelphia Eagles    | 费城老鹰               | ![Link to logo](#) |
+| 27   | Pittsburgh Steelers    | 匹兹堡钢人               | ![Link to logo](#) |
+| 28   | San Francisco 49ers    | 旧金山49人              | ![Link to logo](#) |
+| 29   | Seattle Seahawks       | 西雅图海鹰               | ![Link to logo](#) |
+| 30   | Tampa Bay Buccaneers   | 坦帕湾海盗               | ![Link to logo](#) |
+| 31   | Tennessee Titans       | 田纳西泰坦               | ![Link to logo](#) |
+| 32   | Washington Commanders  | 华盛顿指挥官             | ![Link to logo](#) |

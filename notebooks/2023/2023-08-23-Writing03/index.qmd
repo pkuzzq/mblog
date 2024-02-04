@@ -1,0 +1,120 @@
+---
+title: "Writing03-4Steps"
+description: |
+  学术性的写作
+author:
+  - name: Jason ZHOU
+    url: 
+date: last-modified
+categories:
+  - 英语
+  - 写作
+  - "2023"
+image: ""
+
+---
+## Introduction 
+Four Steps to an Applied Micro Paper
+
+Jesse M. Shapiro*
+Harvard University and NBER
+
+Monday 19th  September, 2022
+
+
+
+Abstract
+This note outlines a four-step process for writing an applied micro paper. Appendices discuss formu- lating a research question and structuring a paper’s introduction.
+
+Step 1: Aspirational introduction.
+Write an introduction for the paper you aspire to write. Feel free to make up your results, within reason.
+When you think you are done, ask yourself: if I write the paper outlined in this introduction, will I be happy with it?
+If so, move to step 2. If not, stay on this step. Chances are that if imaginary results don’t excite you, neither will real ones.
+
+Step 2: Research.
+Do your research.
+You will be tempted to work first on the most straightforward aspects of the project.  Instead, start by working on whatever aspect is least clear to you, or seems most likely to prevent you from achieving your goals.
+Return frequently to the introduction. It is your compass.
+When you think you have your main findings in place, move to step 3.
+
+Step 3: Robot.
+Write the body of your paper as if you were writing it for a robot. Don’t try to convince the robot you are right. Just state your assumptions, methods, and findings.
+Be linear: If the robot encounters concepts that have not yet been defined, it breaks.
+Be clear: If the robot encounters concepts that do not make sense, it breaks.
+Be plain: The robot does not understand fancy talk and is not impressed by it.
+Be formal: The robot has no problem with mathematics as long as it is correct.
+As you write, you will find gaps in your analysis.  These will require you to occasionally return to step 2.
+When these gaps are closed and the robot is happy, move to step 4.
+Step 4: Contractual introduction.
+Rewrite the introduction. Now it is a contract between you and the reader. The reader agrees to be excited about your paper, provided the paper delivers what the introduction promises.
+As you write, you will find you want claim some things that your research does not really deliver. When this happens, return to steps 2-3.
+When the paper delivers on a contract you are happy with, stop. This is your first draft.
+
+
+## 四步走向应用微观论文
+
+杰西·M·夏皮罗*
+哈佛大学和美国国家经济研究局
+
+2022年9月19日 星期一
+
+摘要
+本文概述了撰写应用微观论文的四个步骤。附录讨论了如何制定研究问题和构建论文的引言。
+
+第一步：雄心勃勃的引言。
+为你所渴望写的论文撰写一个引言。可以根据合理的范围编造结果。当你认为完成时，问问自己：如果我按照这个引言的提纲写论文，我会满意吗？如果是，进入第二步。如果不是，停留在这一步。如果虚构的结果不能激发你的兴趣，真实的结果也不会。
+
+第二步：研究。
+展开你的研究。
+你会被诱惑首先处理项目中最直接的部分。相反，从你认为最不清晰的方面或最有可能阻止你实现目标的方面开始工作。
+经常回到引言部分。它是你的指南针。
+当你认为主要发现已经得到了确认，进入第三步。
+
+第三步：机器人。
+将论文正文写得像写给机器人看一样。不要试图说服机器人你是对的。只要陈述你的假设、方法和发现。
+要线性：如果机器人遇到尚未定义的概念，它就会中断。
+要清晰：如果机器人遇到不合理的概念，它就会中断。
+要简单：机器人不懂花言巧语，也不会被它所感动。
+要正式：只要数学正确，机器人对数学毫无问题。
+在写作过程中，你会发现分析中存在空白。这将需要你偶尔返回第二步。
+当这些空白填补完毕，机器人满意时，进入第四步。
+
+第四步：契约式引言。
+重写引言。现在它是你与读者之间的契约。读者同意对你的论文感到兴奋，前提是论文能够履行引言的承诺。
+在写作过程中，你会发现你想要宣称一些研究实际未能达到的内容。当发生这种情况时，返回第二步至第三步。
+当论文按照你满意的契约达到了目标时，停下来。这就是你的初稿。
+
+## A   Formulating the Research Question
+
+There are many different types of research questions. Here is one set of desirable properties, originally written for PhD students in industrial organization.
+•  The  question has  an answer. We may not know what the answer is, but we can agree that an answer exists.  “What is the effect on quantity sold of imposing a price ceiling on ketchup?”has an answer. “What is the nature of firm and consumer behavior in the ketchup industry?”does not.
+•  The  answer is  not  obvious.  We cannot readily determine the answer to the question based on logic, common sense, or existing evidence.   “Would making ketchup available only on Tuesdays improve consumer welfare?”has an answer, but we can probably guess what it is.
+•  The  answer is  actionable .  If we knew the answer, someone (say, a policymaker, firm, or NGO) might care to do things differently.  “What is the effect on consumer welfare of imposing uniform wholesale pricing on the ketchup market?”  seems actionable, because in fact ketchup is subject to uniform wholesale pricing restrictions in the US, and a policymaker might be interested to know whether such restrictions are a good idea.  “What is the effect on consumer welfare of a technology that instantly transports ketchup to your fries whenever you need it?”seems more hypothetical.
+
+B   Writing the Introduction
+• Paragraphs 1-2: Motivation. After reading these paragraphs a reader in any field of economics should believe that if you answer your research question your paper will make an important contribution.
+• Paragraphs 3-4:  Challenges.  These paragraphs explain why your research question has not already been answered, i.e., what are the central challenges a researcher must tackle to answer this question.
+• Paragraph 5: This Paper. This paragraph states in a nutshell what the paper accomplishes and how.
+• Paragraphs 6-7: Model. Summarize the key formal assumptions you will maintain in your analysis.
+• Paragraphs 8-9: Data.  Explain where you obtain your data and how you measure the concepts that are central to your study.
+• Paragraphs 10-11: Methods. Explain how you take your model to the data and how you overcome the challenges you raised in paragraphs 3-4.
+• Paragraphs 12-13: Findings. Describe the key findings. Make sure they connect clearly to the motiva- tion in paragraphs 1-2.
+• Paragraphs 14-15:  Literature.  Lay out the two main ways your paper contributes to the literature. Each paragraph should center around one contribution and should explain precisely how your paper differs from the most closely related recent work.
+
+## A. 构建研究问题
+
+有许多不同类型的研究问题。以下是一组理想的属性，最初是为产业组织领域的博士生编写的。
+• 这个问题是有答案的。我们可能不知道答案是什么，但我们可以同意答案是存在的。“在番茄酱上实施价格上限对销售数量的影响是什么？”有一个答案。“在番茄酱行业中，企业和消费者行为的本质是什么？”则没有。
+• 这个答案不是显而易见的。我们不能仅仅根据逻辑、常识或现有证据来确定问题的答案。“如果只在星期二提供番茄酱，会提高消费者福利吗？”有一个答案，但我们可能可以猜到它是什么。
+• 这个答案是可操作的。如果我们知道答案，某人（例如决策者、公司或非政府组织）可能会有兴趣采取不同的做法。“在番茄酱市场上实施统一批发定价对消费者福利的影响是什么？”似乎是可操作的，因为事实上，番茄酱在美国受到统一批发定价限制，决策者可能会有兴趣了解这种限制是否是一个好主意。“一种能够在你需要的时候立即将番茄酱运送到薯条上的技术对消费者福利的影响是什么？”似乎更具假设性。
+
+## B. 撰写引言
+• 第1-2段：动机。在阅读这些段落后，任何经济学领域的读者都应该相信，如果你回答了你的研究问题，你的论文将会做出重要的贡献。
+• 第3-4段：挑战。这些段落解释了为什么你的研究问题还没有被回答，即回答这个问题需要研究者克服哪些核心挑战。
+• 第5段：本文内容。这一段简要说明了论文的成就以及如何实现这些成就。
+• 第6-7段：模型。总结你在分析中将保持的关键正式假设。
+• 第8-9段：数据。解释你从哪里获取数据以及你如何衡量与你的研究核心概念相关的内容。
+• 第10-11段：方法。解释你如何将模型与数据相结合，以及你如何克服第3-4段中提出的挑战。
+• 第12-13段：结果。描述关键的研究结果。确保它们与第1-2段中的动机之间有清晰的联系。
+• 第14-15段：文献。阐述你的论文对文献的两个主要贡献方式。每段应围绕一个贡献展开，并精确地解释你的论文与最相关的近期工作有何不同。
+
