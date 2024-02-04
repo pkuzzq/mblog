@@ -1,6 +1,6 @@
 ---
-title: "Hello there!"
-pagetitle: "Jason ZHOU"
+title: "Sport Econ Hub by Jason ZHOU"
+pagetitle: "SportEconHub"
 main-photo: files/profiles/profile.jpg
 main-photo-square: files/profiles/profile2.jpg
 title-block-banner: "#CF4446"

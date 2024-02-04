@@ -1,65 +1,36 @@
 project:
   type: website
   resources:
-    - "images/twitter-card.png"
-freeze: true
-bibliography: files/bib/references.bib
-csl: files/bib/chicago-author-date.csl
+    - "CNAME"
+
 execute:
   freeze: true
 
 website:
-  title: "蜡笔小周博客"
-  site-url: https://pkuzzq.netlify.app/
-  twitter-card:
-    creator: "@Bioconductor"
-    image: "/images/twitter-card.png"
-  favicon: "/files/favicon-512.png"
-  open-graph:
-    image: "/files/profiles/twitter-card-large.png"
-    locale: en_US
-  page-footer:
-    left: "Blog made with Quarto."
-    right:
-      - icon: github
-        href: https://github.com/pkuzzq/
-      - icon: twitter
-        href: https://twitter.com/pkuzzq12345
-      - icon: envelope
-        href: mailto:pkuzzq@pku.edu.cn
+  title: "Bioconductor community blog"
+  site-url: https://bioconductor.github.io/biocblog/
+  description: "A blog for the Bioconductor community!"
+  open-graph: true
   navbar:
-    title: 蜡笔小周
-    background: "#43418A"
-    foreground: "#000000"
-    pinned: true
-    left:
-      - text: Jason ZHOU
     right:
       - about.qmd
-      - cv.qmd
-      - text: 博客
-        href: blog/index.qmd
-      - text: 笔记
-        href: notebooks/
-      - text: DataMethods
-        href: datamethods.qmd
-      - text: 发表
-        href: https://www.zotero.org/groups/feh/items/q/Harrell
+      - contributing.qmd
       - icon: github
-        href: https://github.com/pkuzzq
-      - icon: twitter
-        href: https://twitter.com/pkuzzq12345
-
+        href: https://github.com/bioconductor/biocblog
+      - icon: mastodon
+        href: https://genomic.social/@bioconductor
+      - icon: linkedin
+        href: https://www.linkedin.com/company/bioconductor/
+      - icon: youtube
+        href: https://www.youtube.com/user/bioconductor
+      - icon: slack
+        href: https://slack.bioconductor.org/
+      - icon: rss
+        href: index.xml
 format:
   html:
-    theme:
-      - html/ath.scss
-    grid:
-      body-width: 900px
-    toc: false
-    code-link: true
-    anchor-sections: true
-    fig-cap-location: margin
-    reference-location: margin
-    footnotes-hover: true
-    highlight-style: monokai
+    theme: yeti
+    css: styles.css
+    include-in-header:
+      text: |
+        <script defer data-domain="bioconductor.github.io/biocblog" src="https://plausible.io/js/script.js"></script>

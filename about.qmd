@@ -1,34 +1,38 @@
 ---
-title: "关于"
-image: profile2.jpg
+title: "About"
+image: cab.png
 about:
-  template: broadside
+  template: jolla
   links:
-    - icon: homepage
-      text: Home
-      href: https://pkuzzq.netlify.app/
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/pkuzzq12345
+    - icon: mastodon
+      text: Mastodon
+      href: https://genomic.social/@bioconductor
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/bioconductor/
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/user/bioconductor
+    - icon: slack
+      text: Slack
+      href: https://slack.bioconductor.org/
     - icon: github
       text: Github
-      href: https://github.com/pkuzzq
+      href: https://github.com/bioconductor/biocblog
+
 ---
 
-This blog is devoted to statistical thinking and its impact on science and everyday life. Emphasis is given to maximizing the use of information, avoiding statistical pitfalls, describing problems caused by the frequentist approach to statistical inference, describing advantages of Bayesian and likelihood methods, and discussing intended and unintended differences between statistics and data science. I'll also cover regression modeling strategies, clinical trials, drug evaluation, medical diagnosis, and decision making.
+Welcome to the Bioconductor community blog!
+Here you'll find the small contributions, highlight a package functionality, etc.
+There is a chance for people to give a shoutout to something great that happened
+recently in the community.
 
-## Jason ZHOU
+We also like to draw from a wide variety of contributors
+(so please consider submitting a post if so motivated!).
 
-My research interests include Bayesian statistics, predictive modeling and model validation, statistical computing and graphics, biomedical research, clinical trials, health services research, cardiology, and COVID-19 therapeutics.
+If you are interested in publishing some of your own work or insights on
+the Bioconductor community blog, we'd love to hear from you!
+See the article on [contributing posts](contributing.html) for additional details.
 
-### Interests
-
-- Statistical modeling
-- Bayesian statistics and study design
-- Predictive modeling and model validation
-
-
-### Education
-
-* PhD in Economics<br>Peking University<br>2013
-* MS in Economics<br>Peking University<br>2010
+The Bioconductor community blog was created using
+[Quarto](https://quarto.org/).
